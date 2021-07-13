@@ -13,6 +13,12 @@ Dataset:
 •	General news dataset 
 •	COVID-19 news dataset 
 
+# Dataset:
+General news dataset:
+![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
+Covid-19 true news dataset:
+![image](https://drive.google.com/uc?export=view&id=1_2p60q5VHxN2X_AMruLbCcK4Po3Jn-KA)
+
 # Model and Methodology:
 -	Importing libraries: such as numpy, pandas, nltk, and re. 
 -	Reading data: I will start building our model by first reading the data and then will label true news as 0 and fake news as 1. 
@@ -23,4 +29,4 @@ Dataset:
 
 I used 70% of the data for training and 30% for testing because LSTM models (neural networks) internally splits the training into validation. Thus, in model.fit(), I assigned the testing data as validation data to assess the result and avoid overfitting.
 
-![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
+
