@@ -19,8 +19,12 @@ General news dataset:
 ![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
 
 Covid-19 true news dataset:  
+
 ![image](https://drive.google.com/uc?export=view&id=1_2p60q5VHxN2X_AMruLbCcK4Po3Jn-KA)
 
+Covid-19 fake news dataset:  
+
+![image](https://drive.google.com/uc?export=view&id=1TsmZ6a26QEoF_78ze9jgfppgGIMo91x_)   
 # Model and Methodology:
 -	Importing libraries: such as numpy, pandas, nltk, and re. 
 -	Reading data: I will start building our model by first reading the data and then will label true news as 0 and fake news as 1. 
