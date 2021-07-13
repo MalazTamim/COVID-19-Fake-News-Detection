@@ -14,7 +14,7 @@ Dataset:
 •	COVID-19 news dataset 
 
 # Dataset:
-General news dataset:
+General news dataset://
 ![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
 Covid-19 true news dataset:
 ![image](https://drive.google.com/uc?export=view&id=1_2p60q5VHxN2X_AMruLbCcK4Po3Jn-KA)
