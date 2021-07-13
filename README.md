@@ -36,3 +36,6 @@ Covid-19 fake news dataset:
 I used 70% of the data for training and 30% for testing because LSTM models (neural networks) internally splits the training into validation. Thus, in model.fit(), I assigned the testing data as validation data to assess the result and avoid overfitting.
 
 
+# Results:
+I ended up with a 97.99% accuracy.
+
