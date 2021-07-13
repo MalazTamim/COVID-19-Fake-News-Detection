@@ -23,4 +23,4 @@ Dataset:
 
 I used 70% of the data for training and 30% for testing because LSTM models (neural networks) internally splits the training into validation. Thus, in model.fit(), I assigned the testing data as validation data to assess the result and avoid overfitting.
 
-![alt text](https://drive.google.com/file/d/1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
