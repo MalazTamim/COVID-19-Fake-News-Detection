@@ -13,7 +13,7 @@ Dataset:
 •	General news dataset 
 •	COVID-19 news dataset 
 
-# Dataset:
+# Datasets:
 General news dataset:  
 
 ![image](https://drive.google.com/uc?export=view&id=1loZErA_zaYRQsIRa6Gy08luOwDKv2zvC)
