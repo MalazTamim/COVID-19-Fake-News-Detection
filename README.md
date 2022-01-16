@@ -1,5 +1,8 @@
 # COVID-19-Fake-News-Detection
 
+![image](https://drive.google.com/file/d/1buHRQIFzZPqL01wHfefDcxP-VegloYdR/view?usp=sharing)
+
+
 # Abstract:
 Since 2019, the COVID-19 pandemic has impacted the entire world and affected the lives of billions of people. This pandemic has led to unprecedented consequences on the public health, economy, and all other sectors as well. Therefore, at the beginning of the semester, I decided to build an AI solution that will allow us to learn the pandemic’s behavior within this uncertainty and know when and under what conditions countries will expect increases, peaks, and reductions in the number of new cases based on cases history and governments polices. However, after doing extensive research and learning from what others have done so far, I came to a conclusion that this problem relies on unpredicted human behaviors and there are plenty of factors other than government policies can affect the number of cases which will as a result affect our model accuracy. On the other hand, all datasets that I found were very broad and not enough to build an accurate model. The best dataset I have got was about COVID-19 cases in Russia and training the model only on COVID-19 cases in Russia will not be enough to generalize it on other countries so it will not be an efficient solution. On the other hand, the topic is still understudying and data about government policies isn’t fully prepared. In short, I found it risky for us as beginners to continue with the idea and I decided to shift the idea a little bit and decided to tackle another problem related to this topic. It is the spread of COVID-19 FAKE NEWS!!!
 
