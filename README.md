@@ -1,6 +1,6 @@
 # COVID-19-Fake-News-Detection
 
-![image](https://drive.google.com/uc?export=view&id=1eklhuYFIXebmJakQ8Kg3Z0WvTSdYMdSy/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1eklhuYFIXebmJakQ8Kg3Z0WvTSdYMdSy)
 
 
 
