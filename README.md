@@ -1,6 +1,8 @@
 # COVID-19-Fake-News-Detection
 
-
+<p align="center">
+<img src="https://drive.google.com/file/d/16fw_xTIEjtHlKjaztOmY-YlJ8GCoec22/view?usp=sharing" width="100%">
+</p>
 
 
 # Abstract:
